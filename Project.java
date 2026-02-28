@@ -82,7 +82,7 @@ public class Project
 			break;
 			
 		case 2:
-			System.out.println("Enter your withdrawl amoun: ");
+			System.out.println("Enter your withdrawl amount: ");
 			double wit=sc.nextDouble();
 			ac.withdraw(wit);
 			break;
@@ -103,3 +103,4 @@ public class Project
 	}
   
 }
+
